@@ -5,4 +5,4 @@
 address = "0.0.0.0"
 # The port to serve on.
 port = 8000
-public_url = "./"
+public_url = "."
